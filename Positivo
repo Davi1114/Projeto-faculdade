@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+    <title>BellaShop</title>
+</head>
+<body>
+    <a href="/index.html">Início</a>
+    <h1>Computadores</h1>
+    <img src="/Computadores/positivo.webp" alt="Notebook Positivo" width="400">
+    <table>
+        <tr>
+          <th>Configurações</th>
+          <th>Informações</th>
+        
+        </tr>
+        <tr>
+          <td>Memória RAM</td>
+          <td>	8 GB, DDR4</td>
+        </tr>
+        <tr>
+            <td>Processador</td>
+            <td> 	Intel® Core™ i5-10210U, 10ª Geração, (1.60 GHz, 6 MB Cache, Quad Core) com Intel® Turbo Boost até 4.20 GHz </td>
+        </tr>
+        <tr>
+            <td>Sistema</td>
+            <td>Windows 11 Home</td>
+        </tr>
+        <tr>
+            <td>Armazenamento</td>
+            <td>	SSD de 256GB, NVMe, M.2 2280</td>
+        </tr>
+        <tr>
+            <td>Tela</td>
+            
+          <td>	LCD 14’’ HD, 16:9 Widescreen, Anti-reflexiva, Resolução 1280×720 (HD), com tecnologia LED Abertura do LCD de 180°</td>
+        </tr>
+        <tr>
+          <td>Placa de vídeo</td>
+            <td>Intel® UHD Graphics integrado ao processador com memória alocada dinamicamente até 16 GB2</td>
+        </tr>
+      </table>
+        
+    </body>
