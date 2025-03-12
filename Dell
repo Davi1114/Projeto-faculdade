@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+    <title>BellaShop</title>
+</head>
+<body>
+    <a href="/index.html">Início</a>
+    <h1>Computadores</h1>
+    <img src="/Computadores/notebook-laptop-g15-5530-gray-gallery-1-v2.avif" alt="Notebook Dell" width="400px">
+    <table>
+        <tr>
+          <th>Configurações</th>
+          <th>Informações</th>
+        
+        </tr>
+        <tr>
+          <td>Memória RAM</td>
+          <td>16GB DDR5 (2x8GB) 4800MT/s; Expansível até 32GB (2 slots soDIMM)</td>
+        </tr>
+        <tr>
+            <td>Processador</td>
+            <td>13ª geração Intel® Core™ i7-13650HX (14-core, cache de 24MB, até 4.9GHz)</td>
+        </tr>
+        <tr>
+            <td>Sistema</td>
+            <td>Windows 11 Home Single Language (português – Brasil)</td>
+        </tr>
+        <tr>
+            <td>Armazenamento</td>
+            <td>SSD de 1TB PCIe NVMe M.2</td>
+        </tr>
+        <tr>
+            <td>Tela</td>
+            
+          <td>Full HD de 15.6" (1920 x 1080), 165Hz, 300 nits, sRGB-100%, 3 ms, com NVIDIA G-SYNC e Advanced Optimus</td>
+        </tr>
+        <tr>
+            <td>Placa de vídeo</td>
+            <td>NVIDIA® GeForce® RTX™ 4050, 6GB GDDR6</td>
+        </tr>
+      </table>
+    </body>
